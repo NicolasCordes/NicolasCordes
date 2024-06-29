@@ -56,7 +56,7 @@ _Check out my GitHub repository:_
 ## Languages:
  
 - Spanish (Native) 
-- English (B1)
+- English (B2)
 
 <br>
 
