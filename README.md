@@ -1,70 +1,21 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nicolas Cordes</h1>
-
-![GitHub followers](https://img.shields.io/github/followers/NicolasCordes?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/NicolasCordes?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NicolasCordes.repoName) <img src="https://komarev.com/ghpvc/?username=NicolasCordes" alt="NicolasCordes" />
-
-## About Me :
-
-I am an advanced student of the University Degree in Programming at UTN in Mar del Plata with experience in C and Java. I focus on efficient problem-solving and constantly seek opportunities to grow in the technology sector, valuing continuous learning.
-
-_Check out my GitHub repository:_
-
-<div>
-  <p>
-    <a href="https://github.com/NicolasCordes/Sistema_Administrativo_Clubes_Futbol.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasCordes&repo=Sistema_Administrativo_Clubes_Futbol" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-<br>
-
-## Skills :
-
-### Technical Skills
-<div>
-  - Structured Programming on: C <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" height="40" />
-  <br>
-  - OOP (Object-Oriented Programming) on: Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40" alt="Java"/>
-  <br>
-  - Git & GitHub: <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40" alt="Git"/> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" height="40" alt="GitHub"/>
-</div>
-
-### Technical Skills on Learning
-<div>
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
-</div>
-
-### Soft Skills
-<div>
-  <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" height="40" alt="Trello"/>
-    <img src="https://img.icons8.com/color/48/000000/clock--v1.png" width="40" height="40" alt="Time Management"/>
-   <img src="https://img.icons8.com/color/48/000000/teamwork.png" width="40" height="40" alt="Teamwork"/>
-  <img src="https://img.icons8.com/?size=100&id=Y7xmk4MhheJ3&format=png&color=000000" width="40" height="40" alt="Scrum"/>
+# 💫 About Me:
+👨‍💻 Full-Stack Software Developer<br>🌍 Proudly from Mar del plata | Based in Buenos Aires📍AR<br><br>🌐 Socials:
 
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicocordes03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-leonel-cordes/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23430792) 
 
-- Trello
-- Time Management
-- Teamwork
-- Scrum
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NicolasCordes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasCordes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCordes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NicolasCordes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Languages:
- 
-- Spanish (Native) 
-- English (B2)
+---
+[![](https://visitcount.itsvg.in/api?id=NicolasCordes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-## Connect with me ☕ :
-
-<br>
-
-[![@nicolas-leonel-cordes](https://img.icons8.com/fluency/48/000000/linkedin.png "@nicolas-leonel-cordes")](https://www.linkedin.com/in/nicolas-leonel-cordes/) 
-[![@nicolascordes1@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "nicolascordes1@gmail.com")](mailto:nicolascordes1@gmail.com)
-
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
