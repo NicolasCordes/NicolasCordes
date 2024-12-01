@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-Stack Software Developer<br>🌍 Proudly from Mar del plata | Based in Buenos Aires📍AR<br><br>🌐 Socials:
+👨‍💻 Full-Stack Software Developer<br>🌍 Proudly from Mar del plata | Based in Buenos Aires📍AR<br><br>
 
 
 ## 🌐 Socials:
